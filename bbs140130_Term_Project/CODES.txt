@@ -1,0 +1,11 @@
+There are five codes used to select an operation:
+
+Code 0: Exits the program.
+
+Code 1: Display list of files in directory.
+
+Code 2: Copies a file in the same directory.
+
+Code 3: Rename a file.
+
+Code 4: Deletes a file.
